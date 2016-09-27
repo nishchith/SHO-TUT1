@@ -1,0 +1,7 @@
+#Tue Sep 27 21:17:24 GMT+09:30 2016
+base.0=D\:\\pRoJect\\GitHub\\materiallogindemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f4bb6b2ec1703bb5292ac0077adec0afa2f1e8fc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\pRoJect\\GitHub\\materiallogindemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d486c33e05b981c18c8278e77b58c746bbcc8b7\\classes.dex
+base.1=D\:\\pRoJect\\GitHub\\materiallogindemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d486c33e05b981c18c8278e77b58c746bbcc8b7
+file.0=D\:\\pRoJect\\GitHub\\materiallogindemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f4bb6b2ec1703bb5292ac0077adec0afa2f1e8fc\\classes.dex

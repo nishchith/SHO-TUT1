@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="43928b51a31e3d6dd6cc166486be2786da0fe535">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4bb6b2ec1703bb5292ac0077adec0afa2f1e8fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shobh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_f4d75f46691a1384215a0196fe5992a8349eed47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d415c0dec5b6e43d7c2786b322e3528f8e0b81ad">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5d486c33e05b981c18c8278e77b58c746bbcc8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_be5dc362fdf04ee737a6cd925866d170af9dda43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shobh\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_dfa39aac723b0be43124d09f2e1b83e3eb3c6c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_01eefb1f094f57ee818ee403bbdf298ac181fdf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_68250f4ada5e0074cc6119f92c52bdcd47714551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\pRoJect\GitHub\materiallogindemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_94d2156a737159ca3383cd5899801c64521013c6\classes.dex" />
+    </item>
+
+</items>

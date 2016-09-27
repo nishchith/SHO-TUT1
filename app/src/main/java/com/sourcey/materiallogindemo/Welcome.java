@@ -38,6 +38,7 @@ public class Welcome extends ListActivity
         DB = (new DBHelper(this)).getWritableDatabase();
         // searchText = (EditText) findViewById (R.id.searchText);
 
+        // test comment 2
         eun = (TextView)findViewById(R.id.textV);
         Bundle bundle = getIntent().getExtras();
 
